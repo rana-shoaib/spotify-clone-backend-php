@@ -1,1 +1,1 @@
-This is the backend for [spotify-clone](https://spotify-react-73.web.app/) made with react
+This is the backend for [spotify-clone](https://github.com/rana-shoaib/react-spotify-clone) made with react
